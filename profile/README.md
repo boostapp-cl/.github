@@ -2,8 +2,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/169854284?s=200&v=4" alt="Boost" width="160" />
 
-# Boost
-
 **Agentes IA multicanal especializados por industria y caso de uso**
 
 SaaS que automatiza ventas, atención y operaciones, integrado a tu empresa.
